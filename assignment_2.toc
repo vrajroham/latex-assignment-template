@@ -1,0 +1,8 @@
+\contentsline {section}{\textsc {Aim}}{3}
+\contentsline {section}{\textsc {Problem Objective}}{3}
+\contentsline {section}{\textsc {Sample Input}}{3}
+\contentsline {section}{\textsc {Theory}}{3}
+\contentsline {section}{\textsc {Algorithm}}{3}
+\contentsline {section}{\textsc {Testing}}{4}
+\contentsline {section}{\textsc {Conclusion}}{4}
+\contentsline {section}{\textsc {References}}{4}
